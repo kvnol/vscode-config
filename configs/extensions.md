@@ -1,5 +1,7 @@
 # Extensions
 
+## VSCode
+
 ## HTML
 
 ## CSS
